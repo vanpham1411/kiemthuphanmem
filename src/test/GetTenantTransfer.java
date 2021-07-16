@@ -110,17 +110,7 @@ public class GetTenantTransfer {
 		assert(!unitest6.message.equals("OK"));
 		System.out.println("UNIT TEST 6: Thanh cong!");
 		
-		
-//		System.out.println("UNIT TEST 7: gia tri tham so sai");
-//		params = "?" + "token= 1" + m_token[7] ;
-//		result = HttpRequest.HttpRequestPOST(Constant.GET_TENANT_TRANSFER, params);
-//		GetTenantTransferResponse unitest7 = toResponse(result);
-//		assert(!unitest7.code.equals(null));
-//		assert(!unitest7.code.equals("1000"));
-//		assert(!unitest7.message.equals("OK"));
-//		System.out.println("UNIT TEST 7: Thanh cong!");
-		
-		
+				
 		System.out.println("UNIT TEST 8: Yeu cau da bi tu choi");
 		Login rev8 = new Login(Constant.Login("master", "018"));
 		Login trans9 = new Login(Constant.Login("master", "019"));

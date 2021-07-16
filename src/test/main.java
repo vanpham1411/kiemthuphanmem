@@ -74,14 +74,7 @@ public class main {
 //		ad014.doSignup();
 //		Signup ad015 = new Signup("015","Tran Thi Bich","0829483716","admin");
 //		ad015.doSignup();
-		
-		
-//		TenantRent test = new TenantRent();
-//		test.TenantRentTest();
-		
-//		TenantCancelRent cancelrent = new TenantCancelRent();
-//		cancelrent.TenantCancelRentTest();
-		
+			
 //		Signup mt011 = new Signup("011","Pham Van Huong","0918338289","master");
 //		mt011.doSignup();
 //		
@@ -142,26 +135,26 @@ public class main {
 //		mt029.doSignup();
 		
 		
-//		TenantRent rent = new TenantRent();
-//		rent.TenantRentTest();
-//		TenantCancelRent cancelrent = new TenantCancelRent();
-//		cancelrent.TenantCancelRentTest();
-//		AddToRoom addToRoom = new AddToRoom();
-//		addToRoom.AddToRoomTest();
-//		GetRoomBill getRoomBill = new GetRoomBill();
-//		getRoomBill.GetRoomBillTest();
-//		GetBill getBill = new GetBill();
-//		getBill.GetBillTest();
-//		RemoveFromRoom removeFromRoom = new RemoveFromRoom();
-//		removeFromRoom.RemoveFromRoomTest();
-//		TenantTransfer tenantTransfer = new TenantTransfer();
-//		tenantTransfer.TenantTransferTest();
-//		GetTenantTransfer getTenantTransfer = new GetTenantTransfer();
-//		getTenantTransfer.GetTenantTransferTest();
-//		ReceiveTenant receiveTenant = new ReceiveTenant();
-//		receiveTenant.ReceiveTenantTest();
-//		RoomSearch roomSearch = new RoomSearch();
-//		roomSearch.RoomSearchTest();
+		TenantRent rent = new TenantRent();
+		rent.TenantRentTest();
+		TenantCancelRent cancelrent = new TenantCancelRent();
+		cancelrent.TenantCancelRentTest();
+		AddToRoom addToRoom = new AddToRoom();
+		addToRoom.AddToRoomTest();
+		GetRoomBill getRoomBill = new GetRoomBill();
+		getRoomBill.GetRoomBillTest();
+		GetBill getBill = new GetBill();
+		getBill.GetBillTest();
+		RemoveFromRoom removeFromRoom = new RemoveFromRoom();
+		removeFromRoom.RemoveFromRoomTest();
+		TenantTransfer tenantTransfer = new TenantTransfer();
+		tenantTransfer.TenantTransferTest();
+		GetTenantTransfer getTenantTransfer = new GetTenantTransfer();
+		getTenantTransfer.GetTenantTransferTest();
+		ReceiveTenant receiveTenant = new ReceiveTenant();
+		receiveTenant.ReceiveTenantTest();
+		RoomSearch roomSearch = new RoomSearch();
+		roomSearch.RoomSearchTest();
 		UserSearch userSearch = new UserSearch();
 		userSearch.UserSearchTest();
 

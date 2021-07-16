@@ -56,9 +56,9 @@ public class RoomSearch {
 		params = "?" + "index=" +"0" + "&"  + "keyword=so" +"&" +  "count=" + "2"  ;
 		result = HttpRequest.HttpRequestGET(Constant.ROOM_SEARCH, params);
 		RoomSearchResponse unitest3 = toResponse(result);
-//		assert(!unitest3.code.equals(null));
-//		assert(unitest3.code.equals("1000"));
-//		assert(unitest3.message.equals("OK"));
+		assert(!unitest3.code.equals(null));
+		assert(unitest3.code.equals("1000"));
+		assert(unitest3.message.equals("OK"));
 		System.out.println("UNIT TEST 3: Thanh cong!");
 		
 		System.out.println("UNIT TEST 4: thua tham so");
