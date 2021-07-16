@@ -6,9 +6,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/MyPC/eclipse-workspace/20202/lib/gson-2.3.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/MyPC/eclipse-workspace/okhttp-5.0.0-alpha.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/MyPC/eclipse-workspace/java-json.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/MyPC/eclipse-workspace/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyPC/eclipse-workspace/20202/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyPC/eclipse-workspace/20202/lib/okhttp-5.0.0-alpha.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyPC/eclipse-workspace/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyPC/eclipse-workspace/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MyPC/eclipse-workspace/20202/lib/okio-3.0.0-alpha.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
